@@ -1,6 +1,8 @@
 ## Hi there 👋
 ---
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=79FF97&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+dxc19961118;Full+Stack+Developer;Welcome+to+my+profile" alt="typing" />
+</div>
 
 <!--
 **dxc19961118/dxc19961118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
