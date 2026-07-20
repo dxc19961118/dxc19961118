@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<!-- 个人总数据卡片，可加theme自定义配色 -->
+[![我的GitHub数据](https://github-readme-stats.vercel.app/api?username=dxc19961118&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 常用语言饼图卡片 -->
+[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=dxc19961118&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dxc19961118/dxc19961118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
