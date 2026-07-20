@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxc19961118&layout=compact&theme=tokyonight&hide=jupyter+notebook" />
 <img src="https://streak-stats.demolab.com/?user=dxc19961118&theme=tokyonight&hide_border=false" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxc19961118&theme=tokyonight&hide_border=true" />
-<img src="https://skillicons.dev/icons?i=go,rust,react,k8s,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,ts,react,cs,html,git,mysql,postgres,redis,vscode,vue&theme=dark" />
 
 <!--
 **dxc19961118/dxc19961118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
