@@ -1,8 +1,14 @@
 ## Hi there 👋
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=79FF97&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+dxc19961118;Full+Stack+Developer;Welcome+to+my+profile" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+dxc19961118;Full+Stack+Developer;Welcome+to+my+profile" alt="typing" />
 </div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dxc19961118&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxc19961118&layout=compact&theme=tokyonight&hide=jupyter+notebook" />
+<img src="https://streak-stats.demolab.com/?user=dxc19961118&theme=tokyonight&hide_border=false" />
+
+
 
 <!--
 **dxc19961118/dxc19961118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
